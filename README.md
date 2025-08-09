@@ -13,3 +13,5 @@
 * It includes donut charts, bar charts, and KPI cards to display performance distribution and overall statistics.
 * Interactive filters allow viewing performance by student ID, grade, or other attributes.
 * Built in Power BI, it provides actionable insights to improve learning outcomes and monitor student engagement.
+
+## 3. Customer Segmentation Using K-Means
