@@ -14,4 +14,9 @@
 * Interactive filters allow viewing performance by student ID, grade, or other attributes.
 * Built in Power BI, it provides actionable insights to improve learning outcomes and monitor student engagement.
 
-## 3. Customer Segmentation Using K-Means
+## 3. Customer Segmentation Using K-Means 🛍️
+
+* This dashboard segments customers based on age, annual income, spending score, and visit frequency using K-Means clustering.
+* It visually represents customer groups through scatter plots, bar charts, and KPI cards.
+* Interactive filters allow detailed exploration of each customer segment’s behavior and preferences.
+* Built in Power BI, it helps businesses target the right audience for marketing and personalized offers.
