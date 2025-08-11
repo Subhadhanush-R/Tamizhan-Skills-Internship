@@ -34,3 +34,11 @@
 * Designed an interactive Power BI dashboard to track sales, order quantities, product performance, and customer reviews.
 * Implemented slicers and filters for dynamic analysis by date, product category, and customer segment.
 * Provided actionable insights on top-selling products, peak sales periods, and customer satisfaction trends.
+
+## 6. Netflix_User_Behavior_Analysis 🍿
+
+* Cleaned and prepared Netflix dataset for analysis using Excel and Power BI.
+* Developed an interactive dashboard to analyze content distribution by genre, release year, and country.
+* Implemented slicers for dynamic filtering by content type, ratings, and production year.
+* Visualized trends to identify popular genres, regional content patterns, and growth over time.
+
