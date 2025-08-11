@@ -20,3 +20,10 @@
 * It visually represents customer groups through scatter plots, bar charts, and KPI cards.
 * Interactive filters allow detailed exploration of each customer segment’s behavior and preferences.
 * Built in Power BI, it helps businesses target the right audience for marketing and personalized offers.
+
+## 4. COVID-19 Data Analysis 🦠
+
+* Collected and transformed global COVID-19 data to ensure accuracy, consistency, and completeness.
+* Built an interactive Power BI dashboard to visualize confirmed cases, recoveries, and fatalities across countries and time periods.
+* Applied filters, slicers, and KPIs for dynamic analysis by country, date range, and case status.
+* Delivered actionable insights to identify trends, high-impact regions, and peak infection periods.
