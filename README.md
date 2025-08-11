@@ -27,3 +27,10 @@
 * Built an interactive Power BI dashboard to visualize confirmed cases, recoveries, and fatalities across countries and time periods.
 * Applied filters, slicers, and KPIs for dynamic analysis by country, date range, and case status.
 * Delivered actionable insights to identify trends, high-impact regions, and peak infection periods.
+
+5. E-Commerce Data Insights 🛒
+
+* Collected, cleaned, and transformed e-commerce sales data to ensure accuracy and consistency.
+* Designed an interactive Power BI dashboard to track sales, order quantities, product performance, and customer reviews.
+* Implemented slicers and filters for dynamic analysis by date, product category, and customer segment.
+* Provided actionable insights on top-selling products, peak sales periods, and customer satisfaction trends.
