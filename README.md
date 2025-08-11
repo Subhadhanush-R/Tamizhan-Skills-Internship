@@ -42,3 +42,11 @@
 * Implemented slicers for dynamic filtering by content type, ratings, and production year.
 * Visualized trends to identify popular genres, regional content patterns, and growth over time.
 
+## 7. Traffic Pattern Analysis 𐦂𖨆𐀪𖠋
+
+* Processed and cleaned traffic dataset containing vehicle counts, hours, and GPS coordinates.
+* Built an interactive Power BI dashboard to visualize traffic density trends over time and by location.
+* Applied time-series analysis to identify peak hours, anomalies, and recurring traffic patterns.
+* Delivered insights to support traffic management, congestion reduction, and urban planning decisions.
+
+
