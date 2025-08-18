@@ -1,4 +1,4 @@
-# ⭐ Tamizhan-Skills-Internship
+# ⭐ Tamizhan-Skills-Internship 👩🏻‍💻
  
 ## 1. Sales Forecasting with Linear Regression 📈
 
